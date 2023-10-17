@@ -1,1 +1,2 @@
-# [swap](https://swap.redecoin.eu/)https://swap.redecoin.eu/
+# [swap]
+(https://swap.redecoin.eu/)https://swap.redecoin.eu/
