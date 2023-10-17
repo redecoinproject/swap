@@ -1,2 +1,2 @@
-# wap
+# swap
 https://swap.redecoin.eu/
